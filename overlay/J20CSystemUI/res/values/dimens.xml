@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- The padding around the statusbar -->
+    <dimen name="status_bar_padding_top">7dp</dimen>
+    <dimen name="status_bar_padding_start">3dp</dimen>
+    <dimen name="status_bar_padding_end">3dp</dimen>
+    <dimen name="status_bar_header_height_keyguard">38dp</dimen>
+
+    <!-- Location of the power button/fingerprint sensor -->
+    <dimen name="physical_power_button_center_screen_location_y">1030px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_y">1030px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_x">1080px</dimen>
+
+    <!-- The width of user avatar when on Keyguard -->
+    <dimen name="multi_user_avatar_keyguard_size">12dp</dimen>
+
+    <!-- Margin on the left side of the carrier text on Keyguard -->
+    <dimen name="keyguard_carrier_text_margin">20dp</dimen>
+
+    <!--  Total minimum padding to enforce to ensure that the dot can always show  -->
+    <dimen name="ongoing_appops_dot_min_padding">15dp</dimen>
+
+</resources>

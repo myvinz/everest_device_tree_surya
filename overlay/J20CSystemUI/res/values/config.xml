@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Doze: does this device support STATE_DOZE?  -->
+    <bool name="doze_display_state_supported">true</bool>
+
+    <!-- Max visible notification icons -->
+    <integer name="config_maxVisibleNotificationIcons">5</integer>
+    <integer name="config_maxVisibleNotificationIconsOnLock">6</integer>
+
+</resources>
